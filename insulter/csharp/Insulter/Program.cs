@@ -33,7 +33,6 @@ namespace Insulter
                     RandomInsultList.Add(candidate);
                 }
             }
-            // int RandomIndex = new Random().Next(0, ListOfInsults - 1);
             for (int i = 0; i < 3; i++)
             {
                 int index = RandomInsultList[i];
