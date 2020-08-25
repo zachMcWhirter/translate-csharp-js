@@ -12,7 +12,8 @@ namespace PlaceNames
         {
             // We must specify the Type of the "names" variable.
             //  It is a "List" that can only contain "strings".
-            List<string> names = new List<string> {
+            List<string> names = new List<string> 
+            {
                 "Nashville", "Hong Kong", "The back yard", "Earth",
                 "London", "The mall", "Ryman Auditorium", "The Great Wall of China"
             };
