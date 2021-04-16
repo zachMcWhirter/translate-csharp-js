@@ -1,4 +1,3 @@
-
 const enemies = [
   {
     firstName: "Joshua",
